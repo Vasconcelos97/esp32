@@ -37,3 +37,4 @@
 - Depois que a ESP32 estiver conectada à rede Wi-Fi e o servidor HTTP estiver iniciado, abra um navegador da web em um dispositivo conectado à mesma rede.
 - Digite o endereço IP atribuído à ESP32 no navegador (você pode encontrar isso no Monitor Serial) e pressione Enter.
 - Você deve ver a página da web com o controle do LED, onde você pode ligar e desligar o LED.
+teste
